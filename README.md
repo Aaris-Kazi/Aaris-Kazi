@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## My Name is Aaris Kazi amd I'm  student of Computer Engineering
+## My Name is Aaris Kazi and I'm  student of Computer Engineering
 ### I love to make fun stuff educational as well as profitable my dream is to make products based app to that can help people in day to day life
 
 Here are some ideas to get you started:
