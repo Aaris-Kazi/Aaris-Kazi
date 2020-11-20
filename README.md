@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 - <a href="https://sourcerer.io/aaris-kazi"><img src="https://img.shields.io/badge/Python-56%20commits-orange.svg" alt=""></a>
 
 ![stats](https://github-readme-stats.vercel.app/api?username=Aaris-Kazi&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iampawan&theme=light&hide_langs_below=1" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aaris-Kazi&theme=dark&hide_langs_below=1" />
 
