@@ -1,4 +1,4 @@
-<img src = https://github.com/Aaris-Kazi/Aaris-Kazi/blob/master/banner_new.PNG width = 1080 height = 360>
+## Hi there
 ## My Name is Aaris Kazi and I'm  student of Computer Engineering
 ### I love to make fun stuff educational as well as profitable my dream is to make products based app to that can help people in day to day life
 
