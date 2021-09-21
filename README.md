@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 ### Even on Sourcer
 - <a href="https://sourcerer.io/aaris-kazi"><img src="https://avatars3.githubusercontent.com/u/40735215?v=4" height="50px" width="50px" alt=""/></a>
 - <a href="https://sourcerer.io/aaris-kazi"><img src="https://img.shields.io/badge/Python-56%20commits-orange.svg" alt=""></a>
+- <a href="https://sourceforge.net/projects/pexey/files/latest/download"><img alt="Download PEXEY" src="https://img.shields.io/sourceforge/dt/pexey.svg" ></a>
 
 ![stats](https://github-readme-stats.vercel.app/api?username=Aaris-Kazi&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
 
