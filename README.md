@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: [Linkedin](https://in.linkedin.com/in/aaris-kazi?trk=profile-badge)
+<!-- - <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="9a51266f-6133-40dd-b8e9-618508f4326f" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script> -->
               
 ### Even on Sourcer
 - <a href="https://sourcerer.io/aaris-kazi"><img src="https://avatars3.githubusercontent.com/u/40735215?v=4" height="50px" width="50px" alt=""/></a>
