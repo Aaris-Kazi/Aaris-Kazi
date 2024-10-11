@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: [Linkedin](https://in.linkedin.com/in/aaris-kazi?trk=profile-badge)
 <!-- - <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="9a51266f-6133-40dd-b8e9-618508f4326f" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script> -->
-              
+
+[Hacktober badge](https://www.holopin.io/userbadge/cm255chm377520ckyh0fb79l4)
 ### Even on Sourcer
 - <a href="https://sourcerer.io/aaris-kazi"><img src="https://avatars3.githubusercontent.com/u/40735215?v=4" height="50px" width="50px" alt=""/></a>
 - <a href="https://sourcerer.io/aaris-kazi"><img src="https://img.shields.io/badge/Python-56%20commits-orange.svg" alt=""></a>
