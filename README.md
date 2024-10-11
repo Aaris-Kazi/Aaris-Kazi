@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Web apps as an backend developer
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: [Linkedin](https://in.linkedin.com/in/aaris-kazi?trk=profile-badge)
+- 📫 How to reach me: [![Linkedin](https://in.linkedin.com/in/aaris-kazi?trk=profile-badge)](https://in.linkedin.com/in/aaris-kazi?trk=profile-badge)
 <!-- - <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="9a51266f-6133-40dd-b8e9-618508f4326f" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script> -->
 
 [![An image of @aariskazi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aariskazi)](https://holopin.io/@aariskazi)
